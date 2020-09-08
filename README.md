@@ -1,2 +1,2 @@
 # competitive-programming
-Multiple solutions to competitive programming puzzles and challenges
+Multiple solutions to competitive programming puzzles and challenges.
