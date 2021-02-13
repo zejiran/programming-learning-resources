@@ -5,4 +5,5 @@ set(CMAKE_CXX_STANDARD 14)
 
 add_executable(C__
         vol_cepep.cpp
-        sifra.cpp)
+        sifra.cpp
+        po.cpp)

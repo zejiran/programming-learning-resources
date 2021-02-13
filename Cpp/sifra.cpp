@@ -35,7 +35,7 @@ bool checkExists(string actual, const vector <string> &old) {
     return false;
 }
 
-int main() {
+int mainSifra() {
     string rawMessage;
     cin >> rawMessage;
     int counter = 0;
