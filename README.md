@@ -11,6 +11,8 @@ Multiple solutions to competitive programming puzzles and challenges.
 - [Project Euler](https://projecteuler.net/archives)
 - [LeetCode](https://leetcode.com/explore/)
 - [Codeforces](https://codeforces.com/)
+- [InterviewBit](https://www.interviewbit.com/)
+- [CodeSignal](https://app.codesignal.com/)
 
 ## Recommended Websites to Learn Programming
 
