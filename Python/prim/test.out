@@ -1,0 +1,168 @@
+Case #1:
+Initial node: 0 
+
+Node 0 to node 2 weight is 4
+Selected next node: 2
+
+Node 2 to node 1 weight is 2
+Node 2 to node 0 weight is 4
+Node 2 to node 3 weight is 3
+Node 2 to node 4 weight is 2
+Node 2 to node 5 weight is 4
+Selected next node: 1
+
+Node 1 to node 2 weight is 2
+Node 2 to node 1 weight is 2
+Node 2 to node 0 weight is 4
+Node 2 to node 3 weight is 3
+Node 2 to node 4 weight is 2
+Node 2 to node 5 weight is 4
+Selected next node: 4
+
+Node 4 to node 2 weight is 2
+Node 1 to node 2 weight is 2
+Node 2 to node 1 weight is 2
+Node 2 to node 0 weight is 4
+Node 2 to node 3 weight is 3
+Node 2 to node 4 weight is 2
+Node 2 to node 5 weight is 4
+Selected next node: 3
+
+Node 3 to node 2 weight is 3
+Node 3 to node 5 weight is 3
+Selected next node: 5
+
+------------------
+Selected paths: 
+Node 0 to node 2 with weight 4
+Node 2 to node 1 with weight 2
+Node 2 to node 4 with weight 2
+Node 2 to node 3 with weight 3
+Node 3 to node 5 with weight 3
+Total min weight is 14
+------------------
+
+Case #2:
+Initial node: 0 
+
+Node 0 to node 2 weight is 4
+Selected next node: 2
+
+Node 2 to node 1 weight is 2
+Node 2 to node 0 weight is 4
+Node 2 to node 3 weight is 3
+Node 2 to node 4 weight is 2
+Node 2 to node 5 weight is 4
+Selected next node: 1
+
+Node 1 to node 2 weight is 2
+Node 2 to node 1 weight is 2
+Node 2 to node 0 weight is 4
+Node 2 to node 3 weight is 3
+Node 2 to node 4 weight is 2
+Node 2 to node 5 weight is 4
+Selected next node: 4
+
+Node 4 to node 2 weight is 2
+Node 4 to node 5 weight is 3
+Selected next node: 5
+
+Node 5 to node 2 weight is 4
+Node 5 to node 4 weight is 3
+Node 4 to node 2 weight is 2
+Node 4 to node 5 weight is 3
+Node 1 to node 2 weight is 2
+Node 2 to node 1 weight is 2
+Node 2 to node 0 weight is 4
+Node 2 to node 3 weight is 3
+Node 2 to node 4 weight is 2
+Node 2 to node 5 weight is 4
+Selected next node: 3
+
+------------------
+Selected paths: 
+Node 0 to node 2 with weight 4
+Node 2 to node 1 with weight 2
+Node 2 to node 4 with weight 2
+Node 4 to node 5 with weight 3
+Node 2 to node 3 with weight 3
+Total min weight is 14
+------------------
+
+Case #3:
+Initial node: 0 
+
+Node 0 to node 2 weight is 4
+Selected next node: 2
+
+Node 2 to node 1 weight is 2
+Node 2 to node 0 weight is 4
+Node 2 to node 3 weight is 3
+Node 2 to node 4 weight is 2
+Node 2 to node 5 weight is 4
+Selected next node: 1
+
+Node 1 to node 2 weight is 2
+Node 2 to node 1 weight is 2
+Node 2 to node 0 weight is 4
+Node 2 to node 3 weight is 3
+Node 2 to node 4 weight is 2
+Node 2 to node 5 weight is 4
+Selected next node: 4
+
+Node 4 to node 2 weight is 2
+Node 4 to node 5 weight is 3
+Selected next node: 5
+
+Node 5 to node 2 weight is 4
+Node 5 to node 3 weight is 3
+Node 5 to node 4 weight is 3
+Selected next node: 3
+
+------------------
+Selected paths: 
+Node 0 to node 2 with weight 4
+Node 2 to node 1 with weight 2
+Node 2 to node 4 with weight 2
+Node 4 to node 5 with weight 3
+Node 5 to node 3 with weight 3
+Total min weight is 14
+------------------
+
+Case #4:
+Initial node: 0 
+
+Node 0 to node 1 weight is 4
+Node 0 to node 2 weight is 4
+Selected next node: 1
+
+Node 1 to node 0 weight is 4
+Node 1 to node 2 weight is 2
+Selected next node: 2
+
+Node 2 to node 1 weight is 2
+Node 2 to node 0 weight is 4
+Node 2 to node 3 weight is 3
+Node 2 to node 4 weight is 2
+Node 2 to node 5 weight is 4
+Selected next node: 4
+
+Node 4 to node 2 weight is 2
+Node 4 to node 5 weight is 3
+Selected next node: 5
+
+Node 5 to node 2 weight is 4
+Node 5 to node 3 weight is 3
+Node 5 to node 4 weight is 3
+Selected next node: 3
+
+------------------
+Selected paths: 
+Node 0 to node 1 with weight 4
+Node 1 to node 2 with weight 2
+Node 2 to node 4 with weight 2
+Node 4 to node 5 with weight 3
+Node 5 to node 3 with weight 3
+Total min weight is 14
+------------------
+
