@@ -1,7 +1,7 @@
-# Competitive Programming Challenges
-Multiple solutions to competitive programming puzzles and challenges.
+# Programming Learning Resources
+Multiple resources to start learning and practicing new programming skills.
 
-![Competitive Programming Logo](https://i.ibb.co/N66r90s/hack.gif)
+![Programming Learning Resources Logo](https://user-images.githubusercontent.com/30379522/164405294-b67dc950-e3b4-4ae8-b2ae-0d342126fb7d.gif)
 
 ## Recommended Websites to Practice
 
