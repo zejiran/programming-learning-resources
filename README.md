@@ -37,6 +37,7 @@ Multiple resources to start learning and practicing new programming skills.
 - [Udacity](https://classroom.udacity.com/me)
 - [Mozilla Developer](https://developer.mozilla.org/es/)
 - [Tech Guide Google](https://techdevguide.withgoogle.com/paths/)
+- [Rust Resources](https://letsgetrusty.kartra.com/page/XDk8)
 
 ## Recommended Websites to Practice
 
