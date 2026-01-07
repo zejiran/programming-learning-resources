@@ -5,7 +5,7 @@ Multiple resources to start learning and practicing new programming skills.
 <img width="350" src="https://user-images.githubusercontent.com/30379522/164405294-b67dc950-e3b4-4ae8-b2ae-0d342126fb7d.gif" alt="Programming Learning Resources Logo">
 
 > I recommend creating your own original practice projects that applies the concepts and abilities you are currently learning. This is quite important to quickly gain expertise, confidence and mastery in your own hacker skills.
-> Upload this creations to your GitHub account, each of them is meaningful for future tracking of your learning, growth and progress.
+> Upload these creations to your GitHub account, each of them is meaningful for future tracking of your learning, growth and progress.
 > Do not hesitate to reach me out if you need a hand. Let's start hacking!
 
 ## Recommended Websites to Learn Programming
